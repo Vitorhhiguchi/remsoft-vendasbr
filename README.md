@@ -51,15 +51,11 @@ npm run dev
 
 ## 📦 Tecnologias usadas:
 
-Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:
-
 * ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 * ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 * ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 👷 Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início, colaboradores.
 
 * **Vitor Hiroshi Higuchi** - *Desenvolvedor* - [@vitorhhiguchi](https://github.com/Vitorhhiguchi)
 * **Vinicius Kuwakino** - *Desenvolvedor* - [@viniciuskuwakino](https://github.com/viniciuskuwakino)
